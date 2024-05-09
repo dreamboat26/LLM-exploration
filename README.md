@@ -1,4 +1,4 @@
-# Fine-tuned PNHI 2 Model
+# Fine-tuned PHI 2 Model
 
 This notebook showcases the process of fine-tuning the PHI 2 model using a custom dataset and specific configuration parameters. The goal is to create a task-specific model for a particular use case, leveraging the powerful capabilities of PHI 2 in natural language processing tasks.
 
