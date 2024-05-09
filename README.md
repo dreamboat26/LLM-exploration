@@ -1,2 +1,1 @@
-# LLM-exploration
-LLM based projects
+# Zero Chat
