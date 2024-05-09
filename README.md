@@ -25,7 +25,7 @@ To fine-tune the PHI 2 model for a task-specific application, follow these steps
 2. **Configure Tokenizer**: Customize the tokenizer settings, such as padding and special tokens, as required.
 3. **Set Quantization Parameters**: Adjust the quantization configurations to optimize memory usage and performance.
 4. **Define LoRA Configuration**: Set the LoRA parameters based on the task requirements and model architecture.
-5. **Load Base Model**: Choose the base PNHI 2 model to fine-tune and load it with the specified configurations.
+5. **Load Base Model**: Choose the base PHI 2 model to fine-tune and load it with the specified configurations.
 6. **Prepare Model**: Use the prepare_model_for_kbit_training function to prepare the model for k-bit training.
 7. **Define Training Arguments**: Set the training arguments, including batch size, learning rate, and evaluation strategy.
 8. **Initiate Fine-Tuning**: Instantiate the SFTTrainer with the model, dataset, and training arguments, and start the fine-tuning process.
