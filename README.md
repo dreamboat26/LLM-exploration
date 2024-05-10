@@ -1,4 +1,4 @@
-# Fine-tuning Using Lora
+# Fine-tuning Using LoRa
 
 ## Introduction
 
