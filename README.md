@@ -1,2 +1,2 @@
 # Abstract
-LLM projects implementation
+Mixtral usage in colab
