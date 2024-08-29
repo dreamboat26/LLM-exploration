@@ -33,7 +33,3 @@ For detailed instructions on installation, usage, and customization, please refe
 ## Support
 
 If you encounter any issues or have any questions regarding the usage or implementation of the knowledge base system, feel free to reach out to our support team. We're here to assist you in any way we can.
-
-## License
-
-This project is licensed under the [insert license type]. Please refer to the LICENSE file for more information.
